@@ -5,6 +5,7 @@ const nextConfig = {
     loader: 'akamai',
     path: '',
   },
+  basePath: '/mint-nft-frontend',
 }
 
 module.exports = nextConfig
